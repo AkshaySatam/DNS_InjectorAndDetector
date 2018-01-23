@@ -1,0 +1,1194 @@
+
+2017-12-11 17:51:40.502209 DNS poisoning attempt
+TXID 1530 Request github.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['192.30.253.113', '192.30.253.112']
+
+
+2017-12-11 17:51:40.503203 DNS poisoning attempt
+TXID 1530 Request github.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['192.30.253.113', '192.30.253.112']
+
+
+2017-12-11 17:51:40.516278 DNS poisoning attempt
+TXID 46461 Request shavar.services.mozilla.com
+Answer 1  [b'shavar.prod.mozaws.net.', '54.200.60.113', '52.37.48.84', '52.35.5.132', '35.165.158.113', '52.39.210.199', '35.160.9.151']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.517279 DNS poisoning attempt
+TXID 51177 Request shavar.services.mozilla.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'shavar.prod.mozaws.net.']
+
+
+2017-12-11 17:51:40.539133 DNS poisoning attempt
+TXID 4213 Request ocsp.digicert.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'cs9.wac.phicdn.net.', '72.21.91.29']
+
+
+2017-12-11 17:51:40.540075 DNS poisoning attempt
+TXID 60518 Request ocsp.digicert.com
+Answer 1  [b'cs9.wac.phicdn.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.542177 DNS poisoning attempt
+TXID 14579 Request support.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'sumo.external.zlb.scl3.mozilla.com.', '63.245.213.32']
+
+
+2017-12-11 17:51:40.542722 DNS poisoning attempt
+TXID 36526 Request support.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'sumo.external.zlb.scl3.mozilla.com.']
+
+
+2017-12-11 17:51:40.552432 DNS poisoning attempt
+TXID 48737 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.']
+
+
+2017-12-11 17:51:40.553165 DNS poisoning attempt
+TXID 38335 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.']
+
+
+2017-12-11 17:51:40.558658 DNS poisoning attempt
+TXID 64905 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '52.36.71.24', '35.163.143.41', '54.191.241.246', '35.162.179.12', '52.38.149.111', '52.42.180.72', '54.149.36.237', '54.68.157.14']
+
+
+2017-12-11 17:51:40.559844 DNS poisoning attempt
+TXID 1577 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '52.36.71.24', '35.163.143.41', '54.191.241.246', '35.162.179.12', '52.38.149.111', '52.42.180.72', '54.149.36.237', '54.68.157.14']
+
+
+2017-12-11 17:51:40.566266 DNS poisoning attempt
+TXID 46825 Request incoming.telemetry.mozilla.org
+Answer 1  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '52.36.71.24', '35.163.143.41', '54.191.241.246', '35.162.179.12', '52.38.149.111', '52.42.180.72', '54.149.36.237', '54.68.157.14']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.566840 DNS poisoning attempt
+TXID 21020 Request incoming.telemetry.mozilla.org
+Answer 1  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.568932 DNS poisoning attempt
+TXID 17422 Request ocsp.digicert.com
+Answer 1  [b'cs9.wac.phicdn.net.', '72.21.91.29']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.569428 DNS poisoning attempt
+TXID 10229 Request ocsp.digicert.com
+Answer 1  [b'cs9.wac.phicdn.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.575952 DNS poisoning attempt
+TXID 35067 Request detectportal.firefox.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'detectportal.firefox.com.edgesuite.net.', b'a1089.d.akamai.net.', '199.109.99.139', '199.109.99.136']
+
+
+2017-12-11 17:51:40.576458 DNS poisoning attempt
+TXID 49605 Request detectportal.firefox.com
+Answer 1  [b'detectportal.firefox.com.edgesuite.net.', b'a1089.d.akamai.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.583370 DNS poisoning attempt
+TXID 51187 Request img-getpocket.cdn.mozilla.net
+Answer 1  [b'img-getpocket-cdn.prod.mozaws.net.', '13.33.81.58']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.583873 DNS poisoning attempt
+TXID 54443 Request img-getpocket.cdn.mozilla.net
+Answer 1  [b'img-getpocket-cdn.prod.mozaws.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.589910 DNS poisoning attempt
+TXID 1023 Request snippets.cdn.mozilla.net
+Answer 1  [b'drcwo519tnci7.cloudfront.net.', '13.33.75.32']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.590391 DNS poisoning attempt
+TXID 46676 Request snippets.cdn.mozilla.net
+Answer 1  [b'drcwo519tnci7.cloudfront.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.592183 DNS poisoning attempt
+TXID 4460 Request location.services.mozilla.com
+Answer 1  [b'locprod1-elb-eu-west-1.prod.mozaws.net.', '52.213.89.190', '34.249.232.228', '52.31.122.196']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.593129 DNS poisoning attempt
+TXID 46225 Request location.services.mozilla.com
+Answer 1  [b'locprod1-elb-eu-west-1.prod.mozaws.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.600728 DNS poisoning attempt
+TXID 65125 Request www.youtube.com
+Answer 1  [b'youtube-ui.l.google.com.', '172.217.9.238', '172.217.10.14', '172.217.10.46', '172.217.10.78', '172.217.10.110', '172.217.10.142', '172.217.3.110', '172.217.12.142', '172.217.6.238', '172.217.10.238', '172.217.11.14', '172.217.11.46', '172.217.12.174', '172.217.12.206']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.606218 DNS poisoning attempt
+TXID 10406 Request www.youtube.com
+Answer 1  [b'youtube-ui.l.google.com.', '2607:f8b0:4006:803::200e']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.614529 DNS poisoning attempt
+TXID 21923 Request www.facebook.com
+Answer 1  [b'star-mini.c10r.facebook.com.', '31.13.71.36']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.615491 DNS poisoning attempt
+TXID 41721 Request www.facebook.com
+Answer 1  [b'star-mini.c10r.facebook.com.', '2a03:2880:f112:83:face:b00c:0:25de']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.622488 DNS poisoning attempt
+TXID 43583 Request www.amazon.com
+Answer 1  [b'www.cdn.amazon.com.', b'd3ag4hukkh62yn.cloudfront.net.', '13.33.87.197']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.630602 DNS poisoning attempt
+TXID 47446 Request www.amazon.com
+Answer 1  [b'www.cdn.amazon.com.', b'd3ag4hukkh62yn.cloudfront.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.631124 DNS poisoning attempt
+TXID 45364 Request www.reddit.com
+Answer 1  [b'reddit.map.fastly.net.', '151.101.21.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.648536 DNS poisoning attempt
+TXID 46512 Request www.reddit.com
+Answer 1  [b'reddit.map.fastly.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.649548 DNS poisoning attempt
+TXID 62424 Request www.wikipedia.org
+Answer 1  ['208.80.154.224']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.650021 DNS poisoning attempt
+TXID 21387 Request www.wikipedia.org
+Answer 1  ['2620:0:861:ed1a::1']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.665909 DNS poisoning attempt
+TXID 5724 Request twitter.com
+Answer 1  ['104.244.42.65', '104.244.42.1']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.686194 DNS poisoning attempt
+TXID 5216 Request www.mozilla.org
+Answer 1  [b'www.mozilla.org.cdn.cloudflare.net.', '104.16.40.2', '104.16.41.2']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.686746 DNS poisoning attempt
+TXID 40694 Request www.mozilla.org
+Answer 1  [b'www.mozilla.org.cdn.cloudflare.net.', '2400:cb00:2048:1::6810:2902', '2400:cb00:2048:1::6810:2802']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.687281 DNS poisoning attempt
+TXID 49452 Request www.theatlantic.com
+Answer 1  [b'www.theatlantic.com.inscname.net.', b'ins-067.inscname.net.', b'a-sg03sl04.insnw.net.', '192.33.31.82']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.687810 DNS poisoning attempt
+TXID 24855 Request www.theatlantic.com
+Answer 1  [b'www.theatlantic.com.inscname.net.', b'ins-067.inscname.net.', b'a-sg03sl04.insnw.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.688302 DNS poisoning attempt
+TXID 58480 Request motherboard.vice.com
+Answer 1  [b'http2.vice.map.fastly.net.', '151.101.209.132']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.688861 DNS poisoning attempt
+TXID 44259 Request motherboard.vice.com
+Answer 1  [b'http2.vice.map.fastly.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.689371 DNS poisoning attempt
+TXID 42781 Request www.economist.com
+Answer 1  [b'e2svi.x.incapdns.net.', '199.83.128.108']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.702186 DNS poisoning attempt
+TXID 22009 Request www.economist.com
+Answer 1  [b'e2svi.x.incapdns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.702753 DNS poisoning attempt
+TXID 57222 Request getpocket.com
+Answer 1  ['34.233.111.195', '52.72.69.150', '34.205.250.50', '52.200.6.250']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.703651 DNS poisoning attempt
+TXID 60692 Request getpocket.cdn.mozilla.net
+Answer 1  [b'getpocket-cdn.prod.mozaws.net.', '13.33.81.58']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.704126 DNS poisoning attempt
+TXID 33883 Request getpocket.cdn.mozilla.net
+Answer 1  [b'getpocket-cdn.prod.mozaws.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.711186 DNS poisoning attempt
+TXID 41507 Request yahoo.com
+Answer 1  ['98.139.180.180', '98.138.252.38', '206.190.39.42']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.711706 DNS poisoning attempt
+TXID 41507 Request yahoo.com
+Answer 1  ['98.139.180.180', '98.138.252.38', '206.190.39.42']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.712871 DNS poisoning attempt
+TXID 5174 Request yahoo.com
+Answer 1  ['2001:4998:c:e33::53', '2001:4998:58:2201::73', '2001:4998:44:204::100d']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.734979 DNS poisoning attempt
+TXID 12827 Request www.yahoo.com
+Answer 1  [b'atsv2-fp.wg1.b.yahoo.com.', '98.139.180.181', '98.139.180.180']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.735547 DNS poisoning attempt
+TXID 52350 Request www.yahoo.com
+Answer 1  [b'atsv2-fp.wg1.b.yahoo.com.', '2001:4998:58:2201::74', '2001:4998:58:2201::73']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.750369 DNS poisoning attempt
+TXID 49244 Request tiles.services.mozilla.com
+Answer 1  [b'tiles.r53-2.services.mozilla.com.', '34.210.37.21', '52.27.156.217', '34.214.191.72', '52.26.56.183', '35.164.42.31', '52.25.153.217', '52.89.194.246', '52.32.216.235']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.750890 DNS poisoning attempt
+TXID 32125 Request tiles.services.mozilla.com
+Answer 1  [b'tiles.r53-2.services.mozilla.com.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.753163 DNS poisoning attempt
+TXID 4367 Request s.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '69.147.82.61', '69.147.82.60']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.766542 DNS poisoning attempt
+TXID 39284 Request s.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '2001:4998:1c:800::1001', '2001:4998:1c:800::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.784549 DNS poisoning attempt
+TXID 64476 Request search.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds2-global.l7.search.ystg1.b.yahoo.com.', '63.250.200.63']
+
+
+2017-12-11 17:51:40.800718 DNS poisoning attempt
+TXID 24160 Request search.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds2-global.l7.search.ystg1.b.yahoo.com.', '2001:4998:58:a1e::d000']
+
+
+2017-12-11 17:51:40.816210 DNS poisoning attempt
+TXID 5692 Request geo.query.yahoo.com
+Answer 1  [b'geo-cache-ds.internal.query.g03.yahoodns.net.', '98.137.201.232']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.816735 DNS poisoning attempt
+TXID 40423 Request geo.query.yahoo.com
+Answer 1  [b'geo-cache-ds.internal.query.g03.yahoodns.net.', '2001:4998:58:2201::1012']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.817257 DNS poisoning attempt
+TXID 7959 Request csc.beap.bc.yahoo.com
+Answer 1  [b'beapcsc1.ysm.yahoodns.net.', '76.13.28.70']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.832755 DNS poisoning attempt
+TXID 10077 Request geo.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '98.139.199.204', '98.139.199.205']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.833501 DNS poisoning attempt
+TXID 904 Request csc.beap.bc.yahoo.com
+Answer 1  [b'beapcsc1.ysm.yahoodns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.836651 DNS poisoning attempt
+TXID 53691 Request geo.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '2001:4998:44:4::c:9101', '2001:4998:44:4::c:9102']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.841921 DNS poisoning attempt
+TXID 15289 Request mbp.yimg.com
+Answer 1  [b'www.yahoo.com.', b'atsv2-fp.wg1.b.yahoo.com.', '98.139.180.180', '98.139.180.181']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.842492 DNS poisoning attempt
+TXID 289 Request mbp.yimg.com
+Answer 1  [b'www.yahoo.com.', b'atsv2-fp.wg1.b.yahoo.com.', '2001:4998:58:2201::73', '2001:4998:58:2201::74']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.844591 DNS poisoning attempt
+TXID 31587 Request ss.symcd.com
+Answer 1  [b'ocsp-ds.ws.symantec.com.edgekey.net.', b'e8218.dscb1.akamaiedge.net.', '23.54.187.27']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.850297 DNS poisoning attempt
+TXID 57692 Request ss.symcd.com
+Answer 1  [b'ocsp-ds.ws.symantec.com.edgekey.net.', b'e8218.dscb1.akamaiedge.net.', '2600:141b:4:39f::201a', '2600:141b:4:395::201a']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.861475 DNS poisoning attempt
+TXID 12382 Request s3.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '69.147.82.61', '69.147.82.60']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.866061 DNS poisoning attempt
+TXID 40621 Request s3.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '2001:4998:1c:800::1000', '2001:4998:1c:800::1001']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.866668 DNS poisoning attempt
+TXID 4424 Request s1.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '69.147.82.60', '69.147.82.61']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.867201 DNS poisoning attempt
+TXID 13599 Request s1.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '2001:4998:1c:800::1001', '2001:4998:1c:800::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.867743 DNS poisoning attempt
+TXID 19455 Request s2.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '69.147.82.61', '69.147.82.60']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.868267 DNS poisoning attempt
+TXID 55512 Request s2.yimg.com
+Answer 1  [b's.gycs.b.yahoodns.net.', '2001:4998:1c:800::1000', '2001:4998:1c:800::1001']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.874254 DNS poisoning attempt
+TXID 6506 Request beap-bc.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'geoycpi-uno-deluxe.gycpi.b.yahoodns.net.', '69.147.92.11', '69.147.82.60', '69.147.92.12', '69.147.82.61']
+
+
+2017-12-11 17:51:40.875307 DNS poisoning attempt
+TXID 64380 Request beap-bc.yahoo.com
+Answer 1  [b'geoycpi-uno-deluxe.gycpi.b.yahoodns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.884543 DNS poisoning attempt
+TXID 56031 Request na.ads.yahoo.com
+Answer 1  [b'fo-fd-world-new.yax.gysm.yahoodns.net.', '72.30.3.43', '98.139.225.43']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.885238 DNS poisoning attempt
+TXID 43028 Request na.ads.yahoo.com
+Answer 1  [b'fo-fd-world-new.yax.gysm.yahoodns.net.', '2001:4998:58:4904::6000', '2001:4998:58:4904::7000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.890349 DNS poisoning attempt
+TXID 53108 Request ads.yahoo.com
+Answer 1  [b'fo-fd-world-new.yax.gysm.yahoodns.net.', '98.139.225.43', '72.30.3.43']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.890925 DNS poisoning attempt
+TXID 49623 Request ads.yahoo.com
+Answer 1  [b'fo-fd-world-new.yax.gysm.yahoodns.net.', '2001:4998:58:4904::7000', '2001:4998:58:4904::6000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.893251 DNS poisoning attempt
+TXID 10977 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '98.139.199.205', '98.139.199.204']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.897823 DNS poisoning attempt
+TXID 65407 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '2001:4998:44:4::c:9102', '2001:4998:44:4::c:9101']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.899937 DNS poisoning attempt
+TXID 46563 Request sp.analytics.yahoo.com
+Answer 1  [b'spdc-global.pbp.gysm.yahoodns.net.', '98.139.225.35']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.900504 DNS poisoning attempt
+TXID 19827 Request sp.analytics.yahoo.com
+Answer 1  [b'spdc-global.pbp.gysm.yahoodns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.906855 DNS poisoning attempt
+TXID 54296 Request csync.flickr.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'geoycpi-uno-deluxe.gycpi.b.yahoodns.net.', '69.147.82.60', '69.147.92.12', '69.147.82.61', '69.147.92.11']
+
+
+2017-12-11 17:51:40.907416 DNS poisoning attempt
+TXID 53290 Request csync.flickr.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'geoycpi-uno-deluxe.gycpi.b.yahoodns.net.']
+
+
+2017-12-11 17:51:40.909246 DNS poisoning attempt
+TXID 28454 Request bat.bing.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'bat-bing-com.a-0001.a-msedge.net.', b'a-0001.a-msedge.net.', '204.79.197.200', '13.107.21.200']
+
+
+2017-12-11 17:51:40.914313 DNS poisoning attempt
+TXID 9369 Request bat.bing.com
+Answer 1  [b'bat-bing-com.a-0001.a-msedge.net.', b'a-0001.a-msedge.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.916392 DNS poisoning attempt
+TXID 62260 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+
+
+2017-12-11 17:51:40.917035 DNS poisoning attempt
+TXID 25729 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+
+
+2017-12-11 17:51:40.922699 DNS poisoning attempt
+TXID 20112 Request csync.yahooapis.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ydn2.csync.g01.yahoodns.net.', '76.13.28.196']
+
+
+2017-12-11 17:51:40.923655 DNS poisoning attempt
+TXID 46588 Request csync.yahooapis.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ydn2.csync.g01.yahoodns.net.']
+
+
+2017-12-11 17:51:40.929898 DNS poisoning attempt
+TXID 53820 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '98.139.199.204', '98.139.199.205']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.930515 DNS poisoning attempt
+TXID 63440 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '2001:4998:44:4::c:9101', '2001:4998:44:4::c:9102']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.932799 DNS poisoning attempt
+TXID 48710 Request www.yahoo.com
+Answer 1  [b'atsv2-fp.wg1.b.yahoo.com.', '98.139.180.181', '98.139.180.180']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.933334 DNS poisoning attempt
+TXID 32139 Request www.yahoo.com
+Answer 1  [b'atsv2-fp.wg1.b.yahoo.com.', '2001:4998:58:2201::74', '2001:4998:58:2201::73']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.935915 DNS poisoning attempt
+TXID 59773 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '98.139.199.205', '98.139.199.204']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.945904 DNS poisoning attempt
+TXID 59773 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '98.139.199.205', '98.139.199.204']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.946473 DNS poisoning attempt
+TXID 57922 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '2001:4998:44:4::c:9102', '2001:4998:44:4::c:9101']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.948304 DNS poisoning attempt
+TXID 1995 Request video-api.yql.yahoo.com
+Answer 1  [b'geoycpi-uno.gycpi.b.yahoodns.net.', '69.147.82.61', '69.147.82.60', '69.147.92.12']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.953949 DNS poisoning attempt
+TXID 56421 Request video-api.yql.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'geoycpi-uno.gycpi.b.yahoodns.net.']
+
+
+2017-12-11 17:51:40.962434 DNS poisoning attempt
+TXID 53184 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '98.139.199.204', '98.139.199.205']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.964646 DNS poisoning attempt
+TXID 13823 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '2001:4998:44:4::c:9101', '2001:4998:44:4::c:9102']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.969720 DNS poisoning attempt
+TXID 40159 Request bats.video.yahoo.com
+Answer 1  [b'geoycpi-uno-deluxe.gycpi.b.yahoodns.net.', '69.147.92.12', '69.147.82.61', '69.147.92.11', '69.147.82.60']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.970228 DNS poisoning attempt
+TXID 15751 Request bats.video.yahoo.com
+Answer 1  [b'geoycpi-uno-deluxe.gycpi.b.yahoodns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.970761 DNS poisoning attempt
+TXID 15324 Request us.adserver.yahoo.com
+Answer 1  [b'global1.adserver.gysm.yahoodns.net.', '76.13.28.198']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.971304 DNS poisoning attempt
+TXID 6110 Request us.adserver.yahoo.com
+Answer 1  [b'global1.adserver.gysm.yahoodns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.971818 DNS poisoning attempt
+TXID 61342 Request beap.gemini.yahoo.com
+Answer 1  [b'beap1.cb.g01.yahoodns.net.', '66.218.85.146']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.972311 DNS poisoning attempt
+TXID 3644 Request beap.gemini.yahoo.com
+Answer 1  [b'beap1.cb.g01.yahoodns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.978041 DNS poisoning attempt
+TXID 17795 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '98.139.199.204', '98.139.199.205']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.979151 DNS poisoning attempt
+TXID 10023 Request udc.yahoo.com
+Answer 1  [b'ds-geoycpi-uno-lite.gycpi.b.yahoodns.net.', '2001:4998:44:4::c:9102', '2001:4998:44:4::c:9101']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.981299 DNS poisoning attempt
+TXID 37169 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.985858 DNS poisoning attempt
+TXID 16061 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.988214 DNS poisoning attempt
+TXID 35477 Request c-3609aaeb2ab8ddba851297d2c02ba5e0.http.atlas.cdn.yimg.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['69.147.82.146']
+
+
+2017-12-11 17:51:40.994852 DNS poisoning attempt
+TXID 22372 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+
+
+2017-12-11 17:51:40.995834 DNS poisoning attempt
+TXID 34573 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:40.997525 DNS poisoning attempt
+TXID 37354 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+
+
+2017-12-11 17:51:41.002565 DNS poisoning attempt
+TXID 4449 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.004803 DNS poisoning attempt
+TXID 42050 Request x.bidswitch.net
+Answer 1  ['35.185.22.142', '104.196.23.108', '104.196.173.14', '35.185.52.171', '104.196.182.53', '104.196.190.141', '35.185.20.184', '35.185.67.245', '104.196.28.5', '35.190.165.235']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.011564 DNS poisoning attempt
+TXID 45830 Request ocsp.comodoca.com
+Answer 1  ['178.255.83.1']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.012055 DNS poisoning attempt
+TXID 26265 Request ocsp.comodoca.com
+Answer 1  ['2a02:1788:2fd::b2ff:5301']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.018231 DNS poisoning attempt
+TXID 25884 Request pr-bh.ybp.yahoo.com
+Answer 1  [b'pr-bh.ybp.gysm.yahoodns.net.', '72.30.2.182']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.018716 DNS poisoning attempt
+TXID 56709 Request pr-bh.ybp.yahoo.com
+Answer 1  [b'pr-bh.ybp.gysm.yahoodns.net.']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.021318 DNS poisoning attempt
+TXID 7144 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.025875 DNS poisoning attempt
+TXID 7144 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.027216 DNS poisoning attempt
+TXID 17152 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.029448 DNS poisoning attempt
+TXID 9608 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.034000 DNS poisoning attempt
+TXID 51703 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.036162 DNS poisoning attempt
+TXID 27851 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.036676 DNS poisoning attempt
+TXID 43999 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.042509 DNS poisoning attempt
+TXID 16388 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.043483 DNS poisoning attempt
+TXID 12302 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.045102 DNS poisoning attempt
+TXID 63755 Request r.turn.com
+Answer 1  [b'r.turn.com.akadns.net.', '50.116.194.21']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.050099 DNS poisoning attempt
+TXID 65241 Request r.turn.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'r.turn.com.akadns.net.']
+
+
+2017-12-11 17:51:41.052335 DNS poisoning attempt
+TXID 27009 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.052849 DNS poisoning attempt
+TXID 48364 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.058586 DNS poisoning attempt
+TXID 18081 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+
+
+2017-12-11 17:51:41.059571 DNS poisoning attempt
+TXID 23820 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.067011 DNS poisoning attempt
+TXID 1716 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+
+
+2017-12-11 17:51:41.067590 DNS poisoning attempt
+TXID 11470 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+
+
+2017-12-11 17:51:41.068283 DNS poisoning attempt
+TXID 1716 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '98.137.159.48', '66.218.84.140']
+
+
+2017-12-11 17:51:41.074079 DNS poisoning attempt
+TXID 34323 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+
+
+2017-12-11 17:51:41.075113 DNS poisoning attempt
+TXID 40627 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.076671 DNS poisoning attempt
+TXID 65512 Request linkedin.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['108.174.10.10']
+
+
+2017-12-11 17:51:41.077582 DNS poisoning attempt
+TXID 437 Request linkedin.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['2620:109:c002::6cae:a0a']
+
+
+2017-12-11 17:51:41.079214 DNS poisoning attempt
+TXID 7718 Request github.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['192.30.253.112', '192.30.253.113']
+
+
+2017-12-11 17:51:41.086204 DNS poisoning attempt
+TXID 41483 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.086723 DNS poisoning attempt
+TXID 59793 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.088857 DNS poisoning attempt
+TXID 49847 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.089369 DNS poisoning attempt
+TXID 33005 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.099201 DNS poisoning attempt
+TXID 58313 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.099728 DNS poisoning attempt
+TXID 30360 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.106031 DNS poisoning attempt
+TXID 40572 Request safebrowsing.googleapis.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['172.217.12.170']
+
+
+2017-12-11 17:51:41.108501 DNS poisoning attempt
+TXID 249 Request safebrowsing.googleapis.com
+Answer 1  ['2607:f8b0:4006:81a::200a']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.108994 DNS poisoning attempt
+TXID 40572 Request safebrowsing.googleapis.com
+Answer 1  ['172.24.23.69']
+Answer 2  ['172.217.10.10']
+
+
+2017-12-11 17:51:41.113513 DNS poisoning attempt
+TXID 30497 Request safebrowsing.googleapis.com
+Answer 1  ['172.217.12.170']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.114025 DNS poisoning attempt
+TXID 4359 Request safebrowsing.googleapis.com
+Answer 1  ['2607:f8b0:4006:81a::200a']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.116110 DNS poisoning attempt
+TXID 33210 Request clients1.google.com
+Answer 1  [b'clients.l.google.com.', '172.217.12.174']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.116638 DNS poisoning attempt
+TXID 39596 Request clients1.google.com
+Answer 1  [b'clients.l.google.com.', '2607:f8b0:4006:81a::200e']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.124323 DNS poisoning attempt
+TXID 60753 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.124840 DNS poisoning attempt
+TXID 25393 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.130811 DNS poisoning attempt
+TXID 41955 Request facebook.com
+Answer 1  ['31.13.71.36']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.131350 DNS poisoning attempt
+TXID 35907 Request facebook.com
+Answer 1  ['2a03:2880:f112:83:face:b00c:0:25de']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.138400 DNS poisoning attempt
+TXID 15671 Request www.facebook.com
+Answer 1  [b'star-mini.c10r.facebook.com.', '31.13.71.36']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.138928 DNS poisoning attempt
+TXID 38379 Request www.facebook.com
+Answer 1  [b'star-mini.c10r.facebook.com.', '2a03:2880:f112:83:face:b00c:0:25de']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.141228 DNS poisoning attempt
+TXID 52256 Request static.xx.fbcdn.net
+Answer 1  ['172.24.23.69']
+Answer 2  [b'scontent.xx.fbcdn.net.', '31.13.71.7']
+
+
+2017-12-11 17:51:41.146728 DNS poisoning attempt
+TXID 12518 Request scontent-lga3-1.xx.fbcdn.net
+Answer 1  ['31.13.71.7']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.147618 DNS poisoning attempt
+TXID 39091 Request scontent-lga3-1.xx.fbcdn.net
+Answer 1  ['2a03:2880:f012:8:face:b00c:0:1']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.148133 DNS poisoning attempt
+TXID 14732 Request static.xx.fbcdn.net
+Answer 1  [b'scontent.xx.fbcdn.net.', '2a03:2880:f012:8:face:b00c:0:1']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.153695 DNS poisoning attempt
+TXID 33897 Request fbcdn.net
+Answer 1  ['31.13.71.36']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.154594 DNS poisoning attempt
+TXID 64833 Request fbcdn.net
+Answer 1  ['2a03:2880:f112:83:face:b00c:0:25de']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.156564 DNS poisoning attempt
+TXID 27234 Request fbsbx.com
+Answer 1  ['31.13.71.36']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.157134 DNS poisoning attempt
+TXID 21096 Request fbsbx.com
+Answer 1  ['2a03:2880:f112:83:face:b00c:0:25de']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.163270 DNS poisoning attempt
+TXID 5892 Request connect.facebook.net
+Answer 1  [b'scontent.xx.fbcdn.net.', '31.13.71.7']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.163788 DNS poisoning attempt
+TXID 17611 Request connect.facebook.net
+Answer 1  [b'scontent.xx.fbcdn.net.', '2a03:2880:f012:8:face:b00c:0:1']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.170144 DNS poisoning attempt
+TXID 48270 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.170665 DNS poisoning attempt
+TXID 52977 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.172419 DNS poisoning attempt
+TXID 42042 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+
+
+2017-12-11 17:51:41.173396 DNS poisoning attempt
+TXID 28065 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.179442 DNS poisoning attempt
+TXID 11536 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+
+
+2017-12-11 17:51:41.180694 DNS poisoning attempt
+TXID 11536 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '98.137.159.48', '66.218.84.140']
+
+
+2017-12-11 17:51:41.185680 DNS poisoning attempt
+TXID 61206 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.187838 DNS poisoning attempt
+TXID 24901 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.188347 DNS poisoning attempt
+TXID 4966 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.197412 DNS poisoning attempt
+TXID 52810 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.']
+
+
+2017-12-11 17:51:41.202082 DNS poisoning attempt
+TXID 56993 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.']
+
+
+2017-12-11 17:51:41.203313 DNS poisoning attempt
+TXID 52619 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '35.162.179.12', '52.36.71.24', '54.149.36.237', '52.42.180.72', '54.149.52.189', '35.163.143.41', '52.38.149.111', '54.191.241.246']
+
+
+2017-12-11 17:51:41.204478 DNS poisoning attempt
+TXID 18834 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '35.162.179.12', '52.36.71.24', '54.149.36.237', '52.42.180.72', '54.149.52.189', '35.163.143.41', '52.38.149.111', '54.191.241.246']
+
+
+2017-12-11 17:51:41.205652 DNS poisoning attempt
+TXID 52170 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '35.162.179.12', '52.36.71.24', '54.149.36.237', '52.42.180.72', '54.149.52.189', '35.163.143.41', '52.38.149.111', '54.191.241.246']
+
+
+2017-12-11 17:51:41.210840 DNS poisoning attempt
+TXID 34 Request incoming.telemetry.mozilla.org
+Answer 1  ['172.24.23.69']
+Answer 2  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '35.162.179.12', '52.36.71.24', '54.149.36.237', '52.42.180.72', '54.149.52.189', '35.163.143.41', '52.38.149.111', '54.191.241.246']
+
+
+2017-12-11 17:51:41.212725 DNS poisoning attempt
+TXID 54264 Request incoming.telemetry.mozilla.org
+Answer 1  [b'telemetry-incoming.r53-2.services.mozilla.com.', b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.', '52.36.71.24', '54.149.36.237', '52.42.180.72', '54.149.52.189', '35.163.143.41', '52.38.149.111', '54.191.241.246', '35.162.179.12']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.218559 DNS poisoning attempt
+TXID 18544 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+
+
+2017-12-11 17:51:41.219532 DNS poisoning attempt
+TXID 15788 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.221686 DNS poisoning attempt
+TXID 34822 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.226241 DNS poisoning attempt
+TXID 10719 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.228464 DNS poisoning attempt
+TXID 6357 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.140', '66.218.84.141']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.228979 DNS poisoning attempt
+TXID 15556 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
+
+2017-12-11 17:51:41.247498 DNS poisoning attempt
+TXID 5652 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '66.218.84.140']
+
+
+2017-12-11 17:51:41.248805 DNS poisoning attempt
+TXID 5652 Request comet.yahoo.com
+Answer 1  ['172.24.23.69']
+Answer 2  [b'ds-comet.yahoo.g01.yahoodns.net.', '66.218.84.141', '98.137.159.48', '66.218.84.140']
+
+
+2017-12-11 17:51:41.257967 DNS poisoning attempt
+TXID 41273 Request comet.yahoo.com
+Answer 1  [b'ds-comet.yahoo.g01.yahoodns.net.', '2001:4998:58:304::1000']
+Answer 2  ['172.24.23.69']
+
